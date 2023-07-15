@@ -1,5 +1,5 @@
 # 💫 About Me:
-estou estudando python atualmente, tenho um projeto em mente desde do inicio da minha jornada<br>o objetivo é concluir ele é evoluir muito na mundo dev
+estou estudando python atualmente, tenho um projeto em mente desde do inicio da minha jornada<br>o objetivo é concluir ele é evoluir muito na mundo Dev
 
 
 ## 🌐 Socials:
